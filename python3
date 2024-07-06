@@ -1,0 +1,2 @@
+python3 ddos-via-termux.py (ip) (port 80) (135)
+python3
