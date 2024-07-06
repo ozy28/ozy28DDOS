@@ -1,3 +1,7 @@
 python3 ozy28DDOS.py (ip) (port 80) (135)
 python3
 py
+cd ozy28DDOS
+ls
+python3 ozy28DDOS.py
+python ozy28DDOS.py (ip) (port 80) (135)
